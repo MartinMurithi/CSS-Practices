@@ -1,0 +1,2 @@
+-> Pseudo-class, a keyword added to a selector that defines the special state of an element
+-> eg hover, visited, history, read-only , etc
